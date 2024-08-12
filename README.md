@@ -6,7 +6,6 @@
 This report provides a detailed analysis of Adidas sales data for the years 2020 and 2021. The analysis covers overall sales performance, regional sales distribution, units sold, and operating profit. Key insights are derived to support strategic decisions and optimize business performance.
 
 
-
 Here’s a brief description for each tool used in this analysis:
 
 1. **SQL Server Management Studio (SSMS)**:
@@ -19,6 +18,9 @@ Here’s a brief description for each tool used in this analysis:
    Tableau is a powerful data visualization tool that facilitates the creation of interactive dashboards and charts. In this analysis, it was employed to visualize sales data, generate various types of charts, and create dashboards to uncover trends and insights.
 
 Each tool contributed to a thorough analysis by handling different aspects of data preparation, querying, and visualization.
+
+
+![Dashboard Overview](Dashboard%201%20(5).png)
 
 
 #### **1. Overview of Sales Data**
