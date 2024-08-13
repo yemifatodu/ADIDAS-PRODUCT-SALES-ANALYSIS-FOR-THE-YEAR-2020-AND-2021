@@ -9,7 +9,8 @@ This report provides a detailed analysis of Adidas sales data for the years 2020
 Here’s a brief description for each tool used in this analysis:
 
 1. **SQL Server Management Studio (SSMS)**:
-   SSMS is a robust platform for managing and querying SQL Server databases. In this analysis, it was used to write and execute SQL queries to extract, aggregate, and analyze sales data, enabling the calculation of key metrics and generation of insights. To explore all the SQL queries used for this analysis, click here.
+   SSMS is a robust platform for managing and querying SQL Server databases. In this analysis, it was used to write and execute SQL queries to extract, aggregate, and analyze sales data, enabling the calculation of key metrics and generation of insights. To explore all the SQL queries used for this analysis, click here.[SQL Query for Adidas Sales Project](https://github.com/yemifatodu/SQL-QUERY-FOR-ADIDAS-SALES-PROJECT) repository.
+
 
 2. **Excel**:
    Excel is a versatile spreadsheet tool for data organization, analysis, and visualization. It was used in this analysis to clean the dataset, identify and handle duplicates and missing values, and provide a comprehensive overview of the data.
