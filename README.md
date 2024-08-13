@@ -1,10 +1,10 @@
 # **ADIDAS PRODUCT SALES ANALYSIS FOR THE YEAR 2020 AND 2021**
+![Adidas Footwear](adidasFOOT%20WEAR.jpg)
 
 
 
 
 This report provides a detailed analysis of Adidas sales data for the years 2020 and 2021. The analysis covers overall sales performance, regional sales distribution, units sold, and operating profit. Key insights are derived to support strategic decisions and optimize business performance.
-
 
 Here’s a brief description for each tool used in this analysis:
 
@@ -20,7 +20,8 @@ Here’s a brief description for each tool used in this analysis:
 Each tool contributed to a thorough analysis by handling different aspects of data preparation, querying, and visualization.
 
 
-![Dashboard Overview](Dashboard%201%20(5).png)
+
+
 
 
 #### **1. Overview of Sales Data**
@@ -326,7 +327,6 @@ This section breaks down the total sales by region, showing how different parts 
 2. **2021 Insights:** The increased correlation suggests a slow return to price sensitivity, indicating that while price is becoming more relevant, other factors like product features and customer experience should also be considered.
 3. **Strategic Focus:** For future marketing efforts, consider integrating value propositions and promotional strategies to address varying levels of price sensitivity. The focus should be on a balanced approach that includes price, product quality, and customer experience.
 
-This analysis provides a clear view of how regional sales, quarterly trends, and price sensitivity have evolved over the two years, helping in strategic planning and decision-making for future sales and marketing efforts.
 
 
 ### **Top Product Categories by Sales**
@@ -742,26 +742,49 @@ The analysis reveals several key insights into Adidas' sales and profitability t
 - **Walmart** maintained its position in 2020 but did not feature among the top three in 2021, while **Amazon** entered the top list in 2021.
 
 ### **6. Visualization Insights:**
+- ![Dashboard Overview](Dashboard%201%20(5).png)
 
-- **Descriptive Analysis Chart:**
+---
+
+
+ **Descriptive Analysis Chart:**
+
    This chart provides a comprehensive overview of the sales trends across different regions for the years 2020 and 2021. By examining the sales data over time, the chart helps identify significant patterns and fluctuations, offering a clear understanding of which regions experienced growth or decline. The regional comparison also highlights geographical disparities, offering insights into market performance in various parts of the country.
+- ![Dashboard 4](Dashboard%204.png)
+---
 
-- **Retailer Sales Analysis:**
+
+ 
+ **Retailer Sales Analysis:**
+ 
    This analysis focuses on evaluating the sales performance of individual retailers. By breaking down the sales data according to retailer, the visualization pinpoints which retailers are driving the most revenue and how they contribute to the overall sales figures. It allows for an assessment of the effectiveness of different retail partners and helps identify opportunities for strengthening relationships or addressing underperformance.
+- ![Dashboard 2](Dashboard%202%20(2).png)
+---
+ 
+ **Unit Sold vs. Unit Price:**
 
-- **Unit Sold vs. Unit Price:**
    This line graph illustrates the relationship between the price per unit and the volume of units sold. By plotting these two variables together, the graph reveals how changes in pricing impact consumer purchasing behavior. It helps in determining optimal pricing strategies that maximize sales volume while maintaining profitability, shedding light on price sensitivity and demand elasticity within the market.
+- ![Dashboard 6](Dashboard%206.png)
+---
 
-- **Mapbox Visualization:**
-   Utilizing Mapbox, this geographic visualization provides a spatial representation of sales data across the United States. The map emphasizes regional sales distribution, showcasing where products are most popular and where there may be untapped markets. This visualization is essential for understanding regional market penetration, identifying geographic trends, and making informed decisions about where to focus marketing and sales efforts.
 
-- **Product Category Sales:**
+ **Mapbox Visualization:**
+
+ Utilizing Mapbox, this geographic visualization provides a spatial representation of sales data across the United States. The map emphasizes regional sales distribution, showcasing where products are most popular and where there may be untapped markets. This visualization is essential for understanding regional market penetration, identifying geographic trends, and making informed decisions about where to focus marketing and sales efforts.
+- ![Dashboard 3](Dashboard%203.png)
+---
+
+ **Product Category Sales:**
+ 
    This stacked bar chart breaks down the units sold across different product categories, allowing for a clear comparison of category performance. By stacking the data, the chart not only shows the total volume of sales but also how each category contributes to that total. This insight is valuable for managing the product portfolio, helping to identify which categories are thriving and which may require more attention or strategic adjustments.
+- ![Dashboard 5](Dashboard%205.png)
+---
 
-- **Profit Analysis:**
+ **Profit Analysis:**
+ 
    This analysis explores the profitability of various product categories, examining how each category contributes to the bottom line. By comparing operating profits across categories, the visualization helps identify which products are not only selling well but also generating significant profit. This insight is crucial for making informed decisions about product development, marketing focus, and resource allocation to maximize overall profitability.
-
-
+- ![Dashboard 13](Dashboard%2013.png)
+---
 
 
 
@@ -772,17 +795,16 @@ The analysis of Adidas sales data for 2020 and 2021 provides valuable insights i
 This analysis helps in understanding the performance and market dynamics of retailers, providing insights into which retailers are driving revenue and which ones are gaining or losing market share.
 
 
-Here's a short note with links to view the dataset, the dashboard, the article, and your portfolio website:
 
----
 
-**Explore More:**
 
-- **Dataset:** [Click here to view the dataset](#)
-- **Dashboard:** [Click here to explore the dashboard](#)
-- **Article:** [Read the full article on this report](#)
-- **Portfolio:** [Visit my portfolio website](#)
+---# Links to Additional Resources
 
----
+- **[View the Dashboard](https://public.tableau.com/app/profile/yemi.fatodu1473/viz/ADIDASPRODUCTSALESANALYSISFORYEAR2020AND2021/Dashboard1)**: Explore the interactive Tableau dashboard for the Adidas product sales analysis.
+
+- **[Read the Article](https://medium.com/@yemifatodu)**: Check out the detailed article on Medium that discusses the findings and insights from the analysis.
+
+- **[Visit My Portfolio Website](https://yemifatodu.github.io)**: Learn more about my work and projects on my portfolio website.
+
 
 
