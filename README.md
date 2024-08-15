@@ -2,7 +2,48 @@
 ![Adidas Footwear](adidasFOOT%20WEAR.jpg)
 
 
+---
 
+### **Objectives of the Analysis**
+
+The primary objective is to analyze the Adidas sales data for the years 2020 and 2021, segmented by five distinct regions in the United States. The aim is to compare sales performance across these years and gain insights into regional and product-specific trends.
+
+**Key Questions to Answer:**
+1. **Sales Comparison**: How do sales figures for 2020 compare to those for 2021 across the five regions?
+2. **Regional Performance**: What are the sales trends in each region (South, West, Northeast, Southeast, Midwest) for the years 2020 and 2021?
+3. **Retailer Performance**: How did different retailers perform in terms of sales and profit in 2020 versus 2021?
+4. **Pricing and Units Sold**: What is the relationship between unit price and units sold for both years?
+5. **Geographic Distribution**: How do sales distribute geographically across the country, and how have these distributions changed from 2020 to 2021?
+6. **Product Category Insights**: How do sales figures and units sold differ across various product categories in 2020 and 2021?
+7. **Profit Analysis**: What are the profit trends for each product category across the two years?
+
+**Trends or Insights of Interest:**
+- Comparison of sales performance year-over-year.
+- Regional and retailer-specific performance metrics.
+- Relationship between pricing strategies and sales volume.
+- Geographic and product category distribution of sales and profits.
+
+### **Dataset Description**
+
+The dataset used for the analysis is sourced from Kaggle and contains comprehensive sales data for Adidas for the years 2020 and 2021. It includes various metrics across 13 columns and 9,649 rows, segmented by five regions in the United States: South, West, Northeast, Southeast, and Midwest. The columns include:
+
+- **Retailer**: The name of the retailer.
+- **Retailer ID**: A unique identifier for each retailer.
+- **Invoice Date**: The date of the sales transaction.
+- **Region**: The geographical region where the sales occurred.
+- **State**: The state within the region.
+- **City**: The city within the state.
+- **Product**: The type of product sold.
+- **Price per Unit**: The selling price of each unit.
+- **Units Sold**: The number of units sold.
+- **Total Sales**: The total sales amount.
+- **Operating Profit**: The profit earned from sales.
+- **Operating Margin**: The profit margin as a percentage of total sales.
+- **Sales Method**: The method through which the sale was made.
+
+You can access and download the dataset from Kaggle using the following link: [Adidas Sales Dataset](https://www.kaggle.com/datasets/your-dataset-link).
+
+---
 
 This report provides a detailed analysis of Adidas sales data for the years 2020 and 2021. The analysis covers overall sales performance, regional sales distribution, units sold, and operating profit. Key insights are derived to support strategic decisions and optimize business performance.
 
@@ -745,49 +786,80 @@ The analysis reveals several key insights into Adidas' sales and profitability t
 ### **6. Visualization Insights:**
 - ![Dashboard Overview](Dashboard%201%20(5).png)
 
+
+---
+
+The colors used in the dashboard predominantly feature shades of black, green, and brown, each carefully selected to represent specific elements of the data. Here's an analysis of the color usage:
+
+1. **Black Shades**: The black color, which appears most prominently in the charts, is used to represent the footwear with the highest proportion of black color. This choice highlights the dominance of black in the footwear data, providing a clear visual emphasis on this aspect.
+
+2. **Green Shades**: Various shades of green are employed across multiple charts to represent different metrics, such as sales and profit. The varying intensities of green effectively differentiate between the years (2020 and 2021) and various data points within each chart. This choice not only enhances visual appeal but also facilitates easy comparison of performance between the two years.
+
+3. **Brown Shades**: The brown color, used in charts such as the Retailer's Sales Analysis, contrasts effectively with the green, aiding in the differentiation of retailers or other categories. This contrast ensures that the green data remains prominent while providing a clear distinction between various segments.
+
+4. **Adidas Logo and Regional Segmentation**: Each chart features the Adidas logo to maintain brand recognition. Additionally, the regional segmentation is clearly highlighted, allowing for a detailed analysis of data across different regions.
+
+5. **Neutral Background**: The light, neutral background enhances the visibility of the black, green, and brown colors, ensuring the data is easy to interpret without being overshadowed by overly bright or distracting hues.
+
+   Overall, the color scheme is meticulously designed for a professional business report. It emphasizes key metrics and brand identity without being overly flashy, ensuring the dashboard is both functional and aesthetically pleasing, and to creates a cohesive and comprehensive visual narrative, enabling quick understanding of data trends and regional insights.
 ---
 
 
  **Descriptive Analysis Chart:**
+**Chart 1: Descriptive Sales Analysis**  
+This chart presents key statistics for 2020 and 2021, including minimum, average, and maximum sales, along with total sales. The data reveals a significant increase in total sales from 2020 to 2021, indicating notable growth during this period.
 
-   This chart provides a comprehensive overview of the sales trends across different regions for the years 2020 and 2021. By examining the sales data over time, the chart helps identify significant patterns and fluctuations, offering a clear understanding of which regions experienced growth or decline. The regional comparison also highlights geographical disparities, offering insights into market performance in various parts of the country.
 - ![Dashboard 4](Dashboard%204.png)
+
+  This chart offers a comprehensive overview of sales trends across various regions for 2020 and 2021. In analyzing the sales data over time, it helps identify important patterns and fluctuations, providing a clear understanding of regional growth or decline. The regional comparison also highlights geographical disparities, offering valuable insights into market performance across different parts of the country.
 ---
 
-
- 
  **Retailer Sales Analysis:**
- 
-   This analysis focuses on evaluating the sales performance of individual retailers. By breaking down the sales data according to retailer, the visualization pinpoints which retailers are driving the most revenue and how they contribute to the overall sales figures. It allows for an assessment of the effectiveness of different retail partners and helps identify opportunities for strengthening relationships or addressing underperformance.
+**Chart 2: Retailer's Sales Analysis**  
+This bar chart compares sales across various retailers, including Amazon, Foot Locker, Kohl's, Sports Direct, Walmart, and West Gear, for 2020 and 2021. The data highlights a noticeable increase in sales from 2020 to 2021 for most retailers, indicating a positive trend in their performance.
+
 - ![Dashboard 2](Dashboard%202%20(2).png)
+
+This analysis evaluates the sales performance of each retailer, breaking down the data to reveal which retailers are generating the most revenue and how they contribute to overall sales. It helps assess the effectiveness of different retail partners and identifies opportunities to strengthen partnerships or address areas of underperformance.
+
 ---
  
  **Unit Sold vs. Unit Price:**
+**Chart 3: Analysis of Units Sold in Accordance to Unit Price**  
+This chart illustrates the distribution of units sold across different price points for 2020 and 2021. The patterns indicate that most sales occurred within a mid-range price, with noticeable peaks at certain price bands in both years.
 
-   This line graph illustrates the relationship between the price per unit and the volume of units sold. By plotting these two variables together, the graph reveals how changes in pricing impact consumer purchasing behavior. It helps in determining optimal pricing strategies that maximize sales volume while maintaining profitability, shedding light on price sensitivity and demand elasticity within the market.
 - ![Dashboard 6](Dashboard%206.png)
+
+By plotting these two variables together, the chart reveals how pricing influences consumer purchasing behavior. It provides insights into optimal pricing strategies that maximize sales volume while maintaining profitability, offering valuable information on price sensitivity and demand elasticity in the market.
+
 ---
 
 
  **Mapbox Visualization:**
+**Chart 4: Analysis of Sales Across the Country**  
+This map-based visualization provides a geographical breakdown of sales across the United States, with larger green dots representing higher sales volumes in specific regions. The distribution highlights concentrated sales strengths in certain states.
 
- Utilizing Mapbox, this geographic visualization provides a spatial representation of sales data across the United States. The map emphasizes regional sales distribution, showcasing where products are most popular and where there may be untapped markets. This visualization is essential for understanding regional market penetration, identifying geographic trends, and making informed decisions about where to focus marketing and sales efforts.
 - ![Dashboard 3](Dashboard%203.png)
----
 
- **Product Category Sales:**
- 
-   This stacked bar chart breaks down the units sold across different product categories, allowing for a clear comparison of category performance. By stacking the data, the chart not only shows the total volume of sales but also how each category contributes to that total. This insight is valuable for managing the product portfolio, helping to identify which categories are thriving and which may require more attention or strategic adjustments.
+  This Mapbox-powered geographic visualization offers a comprehensive spatial overview of sales data, emphasizing regional distribution. It identifies areas of high product popularity and potential untapped markets, making it an invaluable tool for understanding market penetration, spotting geographic trends, and guiding strategic marketing and sales decisions.
+
+---
+**Product Category Sales:**
+**Chart 5: Analysis of Product Category Unit Sold Segmented by Sales Method**  
+This bar chart illustrates the units sold across various product categories (e.g., Men's Apparel, Women's Athletic Footwear) for each year. Notably, Men's Street Footwear and Women's Apparel showed strong sales in both years, with a marked increase in 2021.
+
 - ![Dashboard 5](Dashboard%205.png)
----
 
- **Profit Analysis:**
- 
-   This analysis explores the profitability of various product categories, examining how each category contributes to the bottom line. By comparing operating profits across categories, the visualization helps identify which products are not only selling well but also generating significant profit. This insight is crucial for making informed decisions about product development, marketing focus, and resource allocation to maximize overall profitability.
+- The stacked bar chart allows for a clear comparison of performance across product categories. It not only highlights the total sales volume but also demonstrates how each category contributes to that total. This insight is crucial for managing the product portfolio, identifying thriving categories, and determining areas that may need strategic adjustments or increased focus.
+
+---
+**Profit Analysis**
+**Chart 6: Profit Analysis of Each Product Category**  
+This chart provides a detailed analysis of operating profit by product category for both 2020 and 2021. The green shaded areas indicate a rise in profitability across all categories, with Men's Apparel and Women's Athletic Footwear demonstrating the most substantial gains.
+
 - ![Dashboard 13](Dashboard%2013.png)
+- By evaluating each category's contribution to overall profit, this visualization highlights which products are not only performing well in sales but also generating significant profit. This insight is vital for making strategic decisions regarding product development, marketing priorities, and resource allocation to optimize overall profitability.
 ---
-
-
 
   
 ### **Conclusion**
