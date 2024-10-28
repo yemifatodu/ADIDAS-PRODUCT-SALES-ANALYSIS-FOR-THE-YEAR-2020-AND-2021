@@ -25,7 +25,7 @@ The primary objective is to analyze the Adidas sales data for the years 2020 and
 
 ### **Dataset Description**
 
-The dataset used for the analysis is sourced from Kaggle and contains comprehensive sales data for Adidas for the years 2020 and 2021. It includes various metrics across 13 columns and 9,649 rows, segmented by five regions in the United States: South, West, Northeast, Southeast, and Midwest. The columns include:
+The sale dataset used for the analysis is obtained from Kaggle and encompasses comprehensive sales information of Adidas for the year 2020 and 2021. It includes various metrics across 13 columns and 9,649 rows, segmented by five regions in the United States: South, West, Northeast, Southeast, and Midwest. The columns include:
 
 - **Retailer**: The name of the retailer.
 - **Retailer ID**: A unique identifier for each retailer.
